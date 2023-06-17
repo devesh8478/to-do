@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: black;
+    background-color:rgb(211, 185, 211);
+  }
+  
+  h1 {
+    color:blueviolet;
+  }
+  
+  #todo-container {
+    margin-bottom: 400px;
+    
+  }
+  
+  #input {
+    padding: 5px;
+    width: 300px;
+  }
+  
+  #todo-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
